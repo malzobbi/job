@@ -1,0 +1,98 @@
+[14-Jan-2026 06:47:18 America/Chicago] PHP Warning:  Undefined variable $i in /home1/austechi/public_html/job/admin/allusers.php on line 183
+[14-Jan-2026 06:47:33 America/Chicago] PHP Warning:  Undefined variable $i in /home1/austechi/public_html/job/admin/allusers.php on line 183
+[14-Jan-2026 06:49:06 America/Chicago] PHP Parse error:  syntax error, unexpected token "require_once" in /home1/austechi/public_html/job/admin/allusers.php on line 16
+[14-Jan-2026 06:49:09 America/Chicago] PHP Parse error:  syntax error, unexpected token "require_once" in /home1/austechi/public_html/job/admin/allusers.php on line 16
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 06:50:59 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:00:55 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'avatar' doesn't have a default value in /home1/austechi/public_html/job/admin/adduser.php:116
+Stack trace:
+#0 /home1/austechi/public_html/job/admin/adduser.php(116): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home1/austechi/public_html/job/admin/adduser.php on line 116
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 07:12:01 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 20:35:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'aboutme' at row 1 in /home1/austechi/public_html/job/admin/addcompany.php:102
+Stack trace:
+#0 /home1/austechi/public_html/job/admin/addcompany.php(102): mysqli->query('INSERT INTO com...')
+#1 {main}
+  thrown in /home1/austechi/public_html/job/admin/addcompany.php on line 102
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[14-Jan-2026 23:32:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[15-Jan-2026 01:48:23 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:41:05 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:43:55 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Undefined variable $user in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
+[18-Jan-2026 00:49:29 America/Chicago] PHP Warning:  Trying to access array offset on null in /home1/austechi/public_html/job/admin/register-candidates.php on line 218
