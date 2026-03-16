@@ -6,6 +6,7 @@ session_start();
 if(empty($_SESSION['id_user'])) {
 	header("Location: index.php");
 	exit();
+	//test only
 }
 
 //Including Database Connection From db.php file to avoid rewriting in all files
